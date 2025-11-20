@@ -3,7 +3,7 @@
 This guide will show you how to create and host a **Xash3D Dedicated Server** for **CS16Client** using a VPS running Ubuntu.  
 This README is designed for beginners and advanced users — just follow the steps carefully.
 
-📺 **Watch the Full Tutorial on YouTube:** *[Your Link Here]*
+📺 **Watch the Full Tutorial on YouTube** 
 
 ---
 
@@ -13,7 +13,7 @@ This README is designed for beginners and advanced users — just follow the ste
 - Ask **ChatGPT** or **DeepSeek** for help before saying “I have a problem” — most issues come from skipping steps or missing commands.
 - Always **copy and paste** the commands exactly as written.
 
-🔥 **And please — follow instructions carefully.**
+- **And please — follow instructions carefully. Don't be a RETARD!**
 
 ---
 
@@ -25,8 +25,8 @@ This README is designed for beginners and advanced users — just follow the ste
   If your VPS provider blocks ports, ask AI or your provider how to open them.
 
 ### ✔ Android Users
-- **JuiceSSH** (terminal): https://play.google.com/store/apps/details?id=com.sonelli.juicessh  
-- **File Manager (FTP client)**: https://play.google.com/store/apps/details?id=com.alphainventor.filemanager
+- **JuiceSSH** (terminal): [Download From Here](https://play.google.com/store/apps/details?id=com.sonelli.juicessh)
+- **File Manager (FTP client)**: [Download From Here](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)
 
 ### ✔ PC Users
 - **PuTTY** (SSH)
