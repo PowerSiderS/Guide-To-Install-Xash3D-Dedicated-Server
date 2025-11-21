@@ -3,8 +3,10 @@
 This guide will show you how to create and host a **Xash3D Dedicated Server** for **CS16Client** using a VPS running Ubuntu.  
 This README is designed for beginners and advanced users — just follow the steps carefully.
 
-📺 **Watch the Full Tutorial on YouTube** 
+📺 **Watch the Full Tutorial on YouTube [here!](https://youtu.be/lVroJeo5VMA)** 
 
+👉 **How to install Mods to your server**
+[Watch Here!](https://youtu.be/W6Cdvp6ASFg?si=IlbrND7NYdJ9fEcY)
 ---
 
 ## ⚠️ Before Asking for Help
