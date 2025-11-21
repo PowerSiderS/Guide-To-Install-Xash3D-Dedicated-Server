@@ -5,8 +5,8 @@ This README is designed for beginners and advanced users — just follow the ste
 
 📺 **Watch the Full Tutorial on YouTube [here!](https://youtu.be/lVroJeo5VMA)** 
 
-👉 **How to install Mods to your server**
-[Watch Here!](https://youtu.be/W6Cdvp6ASFg?si=IlbrND7NYdJ9fEcY)
+👉 **How to install Mods to your server
+[Watch Here!](https://youtu.be/W6Cdvp6ASFg?si=IlbrND7NYdJ9fEcY)**
 ---
 
 ## ⚠️ Before Asking for Help
