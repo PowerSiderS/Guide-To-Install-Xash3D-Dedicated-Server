@@ -49,7 +49,6 @@ sudo dpkg --add-architecture i386
 
 ## **2. Update System and Install Aptitude**
 ```
-sudo apt update && sudo apt upgrade -y
 sudo apt install aptitude -y
 ```
 
@@ -57,11 +56,7 @@ sudo apt install aptitude -y
 
 ## **3. Install Required Libraries**
 ```
-sudo aptitude --without-recommends install \
-git build-essential gcc-multilib g++-multilib \
-libsdl2-dev:i386 libfreetype-dev:i386 libopus-dev:i386 \
-libbz2-dev:i386 libvorbis-dev:i386 libopusfile-dev:i386 \
-libogg-dev:i386
+sudo aptitude --without-recommends install git build-essential gcc-multilib g++-multilib libsdl2-dev:i386 libfreetype-dev:i386 libopus-dev:i386 libbz2-dev:i386 libvorbis-dev:i386 libopusfile-dev:i386 libogg-dev:i386 -y
 ```
 
 ---
