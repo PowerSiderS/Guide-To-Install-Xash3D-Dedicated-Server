@@ -47,7 +47,7 @@ sudo dpkg --add-architecture i386
 
 ---
 
-## **2. Update System and Install Aptitude**
+## **2. Install Aptitude**
 ```
 sudo apt install aptitude -y
 ```
@@ -76,13 +76,22 @@ cd /opt
 ---
 
 ## **6. Download Xash3D Dedicated Server Template**
+
+Go To: ```https://www.mediafire.com/file/2emqul0tbd5zxp4/template_xash.zip/file```
+
+Then Keep pressing on the blue rectangle and select **Copy Link Address**
+
+Note: if you opened link from android. make sure to select Desktop site before copy!!
+
+then back to terminal and write
+
 ```
-wget https://download1478.mediafire.com/j5lws4j75yegtynXu6WexZxcq1UaXtrt8JHl3ZQipFKRxpRoAUWcEDKhMPrMeeaThtmi4QzhwmBMp4SKr-xnFvBdHTjYzavV16K2Hl1FVQVE_tJ_qe21LIIS_UVLMCmU_8iM55Yub-Lv84NAZSxpzDsxvYB-da6VrwrEmgxOQgK_sQ/2emqul0tbd5zxp4/template_xash.zip \
-&& unzip template_xash.zip \
-&& rm template_xash.zip
+wget <link you copied> && unzip template_xash.zip && rm template_xash.zip
 ```
 
 Wait until it finishes.
+
+**Optional**: you can download template in your device then upload zip file by FTP App
 
 ---
 
